@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanbaotam&label=Profile%20views&color=0e75b6&style=flat" alt="vanbaotam" /> </p>
 
-- 🔭 I’m currently working on **HealthAi**
+- 🔭 I’m currently working on **HealthAi** and some important private project 🤫🤫
 
-- 🌱 I’m currently improve my skills on **Typescript and Nextjs**
+- 🌱 I’m currently improve my skills to be better on **Typescript and Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://vanbaotam.github.io/](https://vanbaotam.github.io/)
 
-- 📫 How to reach me **vanbaotam187@gmail.com**
+- 📫 Feel free to contact me from **vanbaotam187@gmail.com**
 
 - 📄 Know about my experiences [https://resume.io/r/xbep9dR5a](https://resume.io/r/xbep9dR5a)
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/van-bao-tam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="van-bao-tam" height="30" width="40" /></a>
-<a href="https://fb.com/văn bảo tâm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="văn bảo tâm" height="30" width="40" /></a>
+<a href="https://fb.com/100008195596870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="văn bảo tâm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
