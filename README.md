@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanbaotam&label=Profile%20views&color=0e75b6&style=flat" alt="vanbaotam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanbaotam" alt="vanbaotam" /></a> </p>
-
-- 🔭 I’m currently working on **HealthAi** and some private projects
+- 🔭 I’m currently working on **HealthAi**
 
 - 🌱 I’m currently improve my skills on **Typescript and Nextjs**
 
