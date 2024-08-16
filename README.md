@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanbaotam&label=Profile%20views&color=0e75b6&style=flat" alt="vanbaotam" /> </p>
 
-- 🔭 I’m currently working on **HealthAi** and some important private project 🤫🤫
+- 🔭 I’m currently working on **HealthAi** and some important private projects 🤫🤫
 
 - 🌱 I’m currently improve my skills to be better on **Typescript and Nextjs**
 
