@@ -11,7 +11,7 @@
 
 - 📫 Feel free to contact me from **vanbaotam187@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/xbep9dR5a](https://resume.io/r/xbep9dR5a)
+<!-- - 📄 Know about my experiences [https://resume.io/r/xbep9dR5a](https://resume.io/r/xbep9dR5a) -->
 
 - ⚡ Fun fact **I'm always ready to dive into learning, whether it's for an entire day or even a whole week straight.**
 
