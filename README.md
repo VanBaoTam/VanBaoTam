@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanbaotam&label=Profile%20views&color=0e75b6&style=flat" alt="vanbaotam" /> </p>
 
-- 🔭 I’m currently working on **HealthAi** and some important private projects 🤫🤫
-
-- 🌱 I’m currently improve my skills to be better on **Typescript and Nextjs**
+- 🌱 On the way to become a **Team Leader** — learning project management, time management, and enhancing soft skills.  
 
 - 👨‍💻 All of my projects are available at [https://vanbaotam.github.io/](https://vanbaotam.github.io/)
 
@@ -13,7 +11,7 @@
 
 <!-- - 📄 Know about my experiences [https://resume.io/r/xbep9dR5a](https://resume.io/r/xbep9dR5a) -->
 
-- ⚡ Fun fact **I'm always ready to dive into learning, whether it's for an entire day or even a whole week straight.**
+- ⚡ **I love Laufey and Tyler songs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
